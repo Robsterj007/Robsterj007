@@ -1,1 +1,2 @@
-This is my personal project. It includes my config files.
+This is my personal project.
+I will store useful information that I find and add it here. 
